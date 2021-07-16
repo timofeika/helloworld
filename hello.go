@@ -78,6 +78,7 @@ func main() {
 
 	fmt.Println(grade)
 
+	fmt.Println("my executable name is:", os.Args[0])
 	//playing string to numbers
 
 }
